@@ -2,7 +2,9 @@
 - 👀 I’m interested in math, coding, gardening, learning all the things
 - 🌱 I’m currently learning python cert level 2, AWS, and ML techniques
 - 💞️ I’m looking to collaborate on python coding, ML and Data Science Projects
-- 📫 How to reach me brooklynbowers0914@gmail.com
+- 📫 How to reach me
+   - :bulb: Medium Link (or ?)
+   - :office: brooklynbowers0914@gmail.com
 
 <!---
 brooklynbowers/brooklynbowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
