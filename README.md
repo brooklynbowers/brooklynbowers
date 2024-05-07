@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning python cert level 2, AWS, and ML techniques
 - 💞️ I’m looking to collaborate on python coding, ML and Data Science Projects
 - 📫 How to reach me
-   - 💡 Medium Link (or squarespace?)
+   - 💡 [Medium](https://medium.com/@brooklyanda)
    - 📧 brooklynbowers0914@gmail.com
-   - 🔗 linked in account
+   - 🔗 [linked in](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 
 
